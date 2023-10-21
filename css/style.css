@@ -243,6 +243,9 @@ a:focus {
   padding: 25px;
   border-radius: 0 0 15px 15px;
 }
+.carousel-inner{
+  height: 1051px;
+}
 
 .slider_section .row {
   -webkit-box-align: center;
